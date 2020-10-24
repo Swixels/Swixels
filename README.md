@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### I'm Swixels, I try to code stuff time to time but usual end up failing due to lack of motivation.
 <!--
 **Swixels/Swixels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
